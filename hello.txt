@@ -3,3 +3,4 @@ testing
 Menambahkan teks baru untuk mencoba apakah conflict atau tidak
 Ini adalah file tambahan pada branch development Ini juga adalah line yang akan membuat conflict
 Ini adalah tambahan yang akan di acc oleh merge
+tambahan dari main
