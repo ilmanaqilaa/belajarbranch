@@ -1,2 +1,2 @@
 Ini adalah tambahan yang akan di acc oleh merge
-Ini adalah file tambahan pada branch development Ini juga adalah line yang akan membuat conflict
+Ini adalah file tambahan pada branch development Ini juga adalah line yang akan membuat conflict (ini adalah kalimat tambahan)
