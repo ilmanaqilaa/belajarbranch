@@ -6,4 +6,3 @@ Ini adalah file tambahan pada branch development Ini juga adalah line yang akan 
 ini baru dari dev
 dev1
 Ini adalah fitur baru untuk tambah pemesanan
-Ini adalah fitur baru untuk ganti lihat barang
