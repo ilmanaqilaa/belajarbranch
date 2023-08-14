@@ -5,4 +5,3 @@ Menambahkan teks baru untuk mencoba apakah conflict atau tidak
 Ini adalah file tambahan pada branch development Ini juga adalah line yang akan membuat conflict
 ini baru dari dev
 dev1
-Ini adalah fitur baru untuk tambah pemesanan
